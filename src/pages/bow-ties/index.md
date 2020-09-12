@@ -16,7 +16,7 @@ weigh: 1.00
 price: 7.00
 path: "/bow-ties/"
 customFields:
-    name: Color
+    name: Colors
     values: ['Blue Red', 'White Blue', 'White Gray']
 
 description: "The bow-tie (not to be confused with the tae bo) is an aphrodisiac worn by male humans attempting to win one or more mates."
