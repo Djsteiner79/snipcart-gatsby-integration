@@ -42,6 +42,7 @@ var BuyButton = React.memo(({post, images}) => {
         className='snipcart-add-item buyBtn'
         data-item-id={post.id}
         data-item-price={post.price}
+        data-item-weigh={post.weigh}
         data-item-image={choosenImgSrc}
         data-item-name={post.title}
         data-item-description={post.description}

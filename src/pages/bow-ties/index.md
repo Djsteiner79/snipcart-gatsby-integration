@@ -12,7 +12,7 @@ image:
 
     - name: 'White Gray'
       src: 'white-gray'
-
+weigh: 1.00
 price: 7.00
 path: "/bow-ties/"
 customFields:

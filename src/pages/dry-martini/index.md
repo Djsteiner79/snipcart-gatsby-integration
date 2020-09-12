@@ -8,6 +8,7 @@ image:
       src: "dry-martini"
 
 price: 8.50
+weigh: 1
 path: "/dry-martini/"
 customFields:
     name: Size

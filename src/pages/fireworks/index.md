@@ -8,6 +8,7 @@ image:
       src: "fireworks"
 
 price: 67.89
+weigh: 0.5 
 path: "/fireworks/"
 customFields:
     name: Sounds
